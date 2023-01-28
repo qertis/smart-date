@@ -1,0 +1,25 @@
+{
+  "name": "smart-date",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.cjs",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.test.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qertis/smart-date.git"
+  },
+  "author": "Denis Baskovsky (https://baskovsky.ru)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qertis/smart-date/issues"
+  },
+  "dependencies": {
+    "date-fns": "2.29.3"
+  },
+  "homepage": "https://github.com/qertis/smart-date#readme"
+}
